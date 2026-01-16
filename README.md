@@ -1,13 +1,21 @@
 # HTML Mini Project 001
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![GitHub](https://img.shields.io/badge/repo-public-blue)
 
-![Badge Placeholder](https://img.shields.io/badge/HTML-Project-blue)  
 **Version:** 1.0.0
 
 A simple HTML-only project created as part of my early web development journey. This project helped me practice semantic structure, clean formatting, and basic page organization.
 
 ---
+## 🚀 Features
+- Clean and semantic HTML structure  
+- Organized page layout  
+- Beginner-friendly code  
+- Simple and readable formatting  
+- No external libraries or frameworks  
 
-## 🚀 Purpose of the Project
+## 🎯 Purpose of the Project
 
 - To practice writing clean and structured HTML
 - To learn and apply semantic tags such as `<header>`, `<main>`, `<section>`, `<article>`, and `<footer>`
@@ -17,6 +25,18 @@ A simple HTML-only project created as part of my early web development journey. 
 This project represents **Day 1** of my path toward becoming a software engineer.
 
 ---
+## 🛠️ Installation & Usage
+
+1. Clone this repository:  
+   `git clone https://github.com/Mehmet1Kaygusuz/html_mini_project_001`
+
+2. Navigate into the project folder:  
+   `cd html_mini_project_001`
+
+3. Open the `index.html` file in your browser:  
+   - Double-click it  
+   - or right-click → “Open with Browser”
+
 
 ## 🧱 HTML Concepts Practiced
 
