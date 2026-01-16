@@ -55,8 +55,7 @@ This project represents **Day 1** of my path toward becoming a software engineer
 ---
 
 ## 📸 Preview
-
-![Project Preview](./screen_shot_index.html.png)
+![Project Preview](./screen_shot_index.png)
 
 ## 📈 Learning Progress
 
