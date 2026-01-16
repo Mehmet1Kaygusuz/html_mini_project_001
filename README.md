@@ -56,9 +56,7 @@ This project represents **Day 1** of my path toward becoming a software engineer
 
 ## 📸 Preview (Optional)
 
-(You can add a screenshot of your webpage here in the future.)
-
----
+## ![Project Preview][def]
 
 ## 📈 Learning Progress
 
@@ -79,3 +77,5 @@ This project represents **Day 1** of my path toward becoming a software engineer
 ## 📌 Notes
 
 This project focuses only on HTML. Future versions will include CSS and JavaScript as I continue learning.
+
+[def]: ./screen_shot_index.html.png
